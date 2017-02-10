@@ -2,4 +2,34 @@ body {
   font-family: $font-family;
 }
 
-h1 { color: red; }
+.button-inverse {
+  background: none;
+  color: $white;
+  border: 0.1rem solid $white;
+  border-radius: 1rem;
+  font-size: 2rem;
+  padding: 1.6rem 2rem;
+  display: inline-block;
+}
+
+.headline {
+  background: #2f5c82;
+  background: linear-gradient(to bottom, #2F5C82 0%, #5A3D8F 100%);
+  color: $white;
+  overflow: hidden;
+  text-align: center;
+}
+
+.headline-title {
+  font-size: 4.5rem;
+  max-width: 67rem;
+  width: 100%;
+  margin: 13rem auto 4rem;
+}
+
+.headline-button {
+  @extend .button-inverse;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  margin: 0 auto 19rem;
+}
