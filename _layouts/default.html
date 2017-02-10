@@ -11,15 +11,11 @@ layout: compress
   <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 </head>
 <body>
-  <header>
-    <a href="{{site.baseurl}}/"><div class="home"></div></a>
-  </header>
+  {% include header.html %}
 
   {{ content }}
 
-  <footer>
-    RODAPÉ
-  </footer>
+  {% include footer.html %}
   {% include analytics.html %}
 </body>
 </html>

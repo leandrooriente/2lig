@@ -1,0 +1,15 @@
+<section class="panel testimonials">
+  <h3>Depoimentos</h3>
+  <ul>
+    {% for testimonial in site.data.testimonials %}
+      <li>
+        <img src="{{ testimonial.picture }}">
+        <p>{{ testimonial.text }}</p>
+        <div>
+          <p>{{ testimonial.name }}</p>
+          <p>{{ testimonial.bio }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
