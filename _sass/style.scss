@@ -1,5 +1,98 @@
-body {
-  font-family: $font-family;
+html {
+  font-size: $base-size;
 }
 
-h1 { color: red; }
+body {
+  font-family: $font-family;
+  font-size: $text-size;
+}
+
+.button-inverse {
+  background: none;
+  color: $white;
+  border: 0.1rem solid $white;
+  border-radius: 1rem;
+  font-size: 1.8rem;
+  padding: 1.4rem 1.8rem;
+  display: inline-block;
+  transition: background 0.2s ease-in, color 0.2s ease-in;
+  cursor: pointer;
+
+  &:hover {
+    background: $white;
+    color: $brand-color;
+  }
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.header-wrapper {
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  max-width: $max-width;
+  width: 100%;
+  position: relative;
+  padding: 1.4rem 0;
+}
+
+.logo {
+  max-width: 7rem;
+  width: 100%;
+}
+
+.navigation {
+  margin: 0 0 0 auto;
+  font-size: 1.8rem;
+
+  li {
+    list-style: none;
+    display: inline-block;
+
+    &:last-child {
+      margin-left: 1.8rem;
+    }
+  }
+
+  a {
+    color: white;
+    padding: 1.4rem;
+    margin: 0 0.4rem;
+    border: 0.2rem solid transparent;
+    text-decoration: none;
+    transition: border-bottom-color 0.2s ease-in;
+
+    &:hover {
+      border-bottom-color: $white;
+    }
+  }
+}
+
+.headline {
+  background: #2f5c82;
+  background: linear-gradient(to bottom, #2F5C82 0%, #5A3D8F 100%);
+  color: $white;
+  overflow: hidden;
+  text-align: center;
+}
+
+.headline-title {
+  font-size: 4.5rem;
+  max-width: 67rem;
+  width: 100%;
+  margin: 19rem auto 4rem;
+}
+
+.headline-button {
+  @extend .button-inverse;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  margin: 0 auto 19rem;
+}
