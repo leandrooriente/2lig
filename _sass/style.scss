@@ -31,6 +31,7 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
+  z-index: 3;
 }
 
 .header-wrapper {
@@ -81,9 +82,13 @@ body {
   color: $white;
   overflow: hidden;
   text-align: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .headline-title {
+  position: relative;
+  z-index: 3;
   font-size: 4.5rem;
   max-width: 67rem;
   width: 100%;
@@ -92,7 +97,41 @@ body {
 
 .headline-button {
   @extend .button-inverse;
+  position: relative;
+  z-index: 3;
   font-size: 1.6rem;
   text-transform: uppercase;
   margin: 0 auto 19rem;
+}
+
+.headline-circle-background {
+  position: absolute;
+  z-index: 2;
+  width: 90%;
+  left: 5%;
+  top: -30%;
+}
+
+.headline-circle-background-large {
+  @extend .headline-circle-background;
+  animation: rotating 50s linear infinite;
+}
+
+.headline-circle-background-medium {
+  @extend .headline-circle-background;
+  animation: rotating 30s linear infinite reverse;
+}
+
+.headline-circle-background-small {
+  @extend .headline-circle-background;
+  animation: rotating 20s linear infinite;
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
