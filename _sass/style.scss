@@ -32,11 +32,11 @@ body {
 }
 
 .show-desktop {
-  display: block;
+  display: block !important;
 }
 
 .hide-desktop {
-  display: none;
+  display: none !important;
 }
 
 @media screen and (max-width: $mobile-width) {
@@ -50,10 +50,10 @@ body {
   }
 
   .hide-mobile {
-    display: none;
+    display: none !important;
   }
 
   .show-mobile {
-    display: block;
+    display: block !important;
   }
 }
