@@ -18,6 +18,10 @@
   justify-content: center;
 }
 
+.panel-erp .panel-flex {
+  flex-direction: row-reverse;
+}
+
 .panel-half {
   box-sizing: border-box;
   width: 50%;
@@ -38,6 +42,10 @@
 }
 
 @media screen and (max-width: $mobile-width) {
+  .panel-description {
+    font-size: $text-size;
+  }
+
   .panel-flex {
     display: block;
   }
