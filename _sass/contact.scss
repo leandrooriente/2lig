@@ -39,9 +39,13 @@
   margin-top: 12rem;
 }
 
-.panel-contact .panel-flex {
-  align-items: flex-start;
+.panel-contact {
+  .panel-flex {
+    flex-direction: row;  
+    align-items: flex-start;
+  }
 }
+
 
 .action {
   margin: 0;
