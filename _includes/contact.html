@@ -1,25 +1,47 @@
 <section class="panel panel-contact" id="contact">
-
+  <div class="panel-wrapper panel-flex">
+    <div class="panel-half">
       <h2 class="title">Entre em contato</h2>
       <form id="contact">
         <p>
-          <label>Nome</label>
-          <input class="input-style" type="text">
+          <input class="input-style" type="text" placeholder="Nome">
         </p>
         <p>
-          <label>Email</label>
-          <input class="input-style" type="email">
+          <input class="input-style" type="email" placeholder="Email">
         </p>
         <p>
-          <label>Telefone(opcional)</label>
-          <input class="input-style" type="text">
+          <input class="input-style" type="text" placeholder="Telefone">
         </p>
         <p class="freeform">
-          <label>Mensagem</label>
-          <textarea class="input-style"></textarea>
+          <textarea class="input-style message" placeholder="Mensagem"></textarea>
         </p>
         <p class="submit">
-          <button class="button default"><span>Enviar</span></button>
+          <button class="button submit-button"><span>Enviar</span></button>
         </p>
       </form>
+    </div>
+    <div class="panel-half icons-panel">
+      <div class="cellphone">
+        <p class="action">Ligue para</p>
+        <div class="detail">
+          <img class="contact-icon" src="{{site.baseurl}}/assets/cellphone-with-one-button.svg" />
+          <p class="contact-text">+55 21 99998-1488</p>
+        </div>
+      </div>
+      <div class="email">
+        <p class="action">Envie um email</p>
+        <div class="detail">
+          <img class="contact-icon" src="{{site.baseurl}}/assets/close-envelope.svg" />
+          <p class="contact-text">jonas@2lig.com.br</p>
+        </div>
+      </div>
+      <div class="skype">
+        <p class="action">Ligue no Skype</p>
+        <div class="detail">
+          <img class="contact-icon" src="{{site.baseurl}}/assets/skype-logo.svg" />
+          <p class="contact-text">jonasrj@hotmail.com</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
