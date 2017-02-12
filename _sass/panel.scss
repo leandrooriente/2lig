@@ -42,6 +42,10 @@
 }
 
 @media screen and (max-width: $mobile-width) {
+  .panel {
+    padding: 3.5rem 0;
+  }
+
   .panel-description {
     font-size: $text-size;
   }
