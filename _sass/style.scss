@@ -135,3 +135,11 @@ body {
     transform: rotate(360deg);
   }
 }
+
+@media screen and (min-width: 120rem) {
+  .headline-circle-background {
+    width: 120rem;
+    left: 50%;
+    margin-left: -60rem;
+  }
+}
