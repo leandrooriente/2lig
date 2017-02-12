@@ -10,12 +10,12 @@
           data-aos-duration="800"
           data-aos-delay="{{ forloop.index | plus: 1 | times: 100 }}"
         >
-          <div class="picture hide-mobile">
+          <div class="picture hide-mobile show-desktop">
             <img src="{{ testimonial.picture }}">
           </div>
           <p>"{{ testimonial.text }}"</p>
           <div class="author">
-            <div class="picture show-mobile">
+            <div class="picture show-mobile hide-desktop">
               <img src="{{ testimonial.picture }}">
             </div>
             <div class="details">

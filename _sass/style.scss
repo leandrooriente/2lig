@@ -31,7 +31,24 @@ body {
   width: 100%;
 }
 
+.show-desktop {
+  display: block;
+}
+
+.hide-desktop {
+  display: none;
+}
+
 @media screen and (max-width: $mobile-width) {
+  .button-inverse {
+    font-size: 1.6rem;
+    padding: 1rem 1.4rem;
+  }
+
+  .title {
+    font-size: 3.4rem;
+  }
+
   .hide-mobile {
     display: none;
   }

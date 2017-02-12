@@ -19,7 +19,11 @@ layout: compress
   {% include footer.html %}
   <script src="{{site.baseurl}}/js/aos.js"></script>
   <script>
-    AOS.init();
+    var _width = window.outerWidth || window.innerWidth;
+    AOS.init({
+      disable: _width < 600,
+      once: true
+    });
   </script>
   {% include analytics.html %}
 </body>
