@@ -3,6 +3,7 @@ var trigger = document.getElementById('hamburger'),
     isClosed = false;
 
 trigger.addEventListener('click', burgerTime, false);
+nav.addEventListener('click', burgerTime, false);
 
 function burgerTime() {
   if (isClosed === true) {

@@ -31,13 +31,16 @@ body {
   width: 100%;
 }
 
-.show-desktop {
-  display: block !important;
+@media screen and (min-width: $mobile-width) {
+  .show-desktop {
+    display: block !important;
+  }
+
+  .hide-desktop {
+    display: none !important;
+  }
 }
 
-.hide-desktop {
-  display: none !important;
-}
 
 @media screen and (max-width: $mobile-width) {
   .button-inverse {
