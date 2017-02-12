@@ -14,3 +14,10 @@
   font-size: 2.4rem;
   color: $white;
 }
+
+@media screen and (max-width: $mobile-width) {
+  .description-company {
+    font-size: $text-size;
+    line-height: 1.4;
+  }
+}
