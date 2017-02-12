@@ -2,19 +2,19 @@
   {
     "name": "Claudio Gomes",
     "bio": "Cama e Banho - CTO",
-    "picture": "assets/luiza.png",
+    "picture": "images/executive-3.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
+  },
+  {
+    "name": "Margareth Bragança",
+    "bio": "Youtty - COO",
+    "picture": "images/executive-2.jpg",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
   },
   {
     "name": "Fernando Queiroz",
-    "bio": "Youtty - COO",
-    "picture": "assets/luiza.png",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
-  },
-  {
-    "name": "Luiza Breier",
     "bio": "Play Tools - CEO",
-    "picture": "assets/luiza.png",
+    "picture": "images/executive-1.jpg",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
   }
 ]

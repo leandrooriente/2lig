@@ -24,6 +24,13 @@ body {
   }
 }
 
+.title {
+  font-size: 4.6rem;
+  color: $brand-color;
+  font-weight: bold;
+  width: 100%;
+}
+
 .header {
   position: absolute;
   top: 0;
@@ -136,10 +143,95 @@ body {
   }
 }
 
-@media screen and (min-width: 120rem) {
+@media screen and (min-width: $max-width) {
   .headline-circle-background {
-    width: 120rem;
+    width: $max-width;
     left: 50%;
     margin-left: -60rem;
+  }
+}
+
+.panel {
+  padding: 10rem 0;
+
+  &:nth-child(odd) {
+    background: lighten($brand-color, 57%);
+  }
+}
+
+.panel-wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.panel-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.panel-half {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.panel-image {
+  text-align: center;
+  padding: 4rem;
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.panel-description {
+  font-size: 2.4rem;
+  color: $text-color;
+}
+
+.testimonials {
+  .title {
+    text-align: center;
+  }
+
+  .list {
+    display: flex;
+    list-style: none;
+    margin: 6.5rem 0 0;
+    width: 100%;
+
+    li {
+      width: 33%;
+      padding-right: 6rem;
+      box-sizing: border-box;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+      
+    .picture {
+      text-align: center;
+    }
+
+    img {
+      max-width: 25rem;
+      width: 100%;
+      display: inline-block;
+      margin: 0 auto 3rem;
+    }
+
+    .author {
+      color: $brand-color;
+
+      p {
+        margin: 0;
+      }
+
+      .name {
+        font-weight: bold;
+      }
+    }
   }
 }
