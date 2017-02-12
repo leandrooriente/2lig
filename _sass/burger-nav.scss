@@ -6,8 +6,10 @@ $scale: 1;        // icon scale 68/68 default
 
 .hamburglar {
   transform: scale($scale);
-  margin: 4rem auto;
-  position: relative;
+  position: absolute;
+  z-index: 6;
+  top: 3.8rem;
+  right: 3rem;
   display: block;
   width: 6.8rem;
   height: 6.8rem;
@@ -82,6 +84,7 @@ $scale: 1;        // icon scale 68/68 default
 // need to be able to control dash space size.
 
 .hamburglar.is-open {
+  position: fixed;
   .path {
     animation: dash-in $animation linear normal;
     animation-fill-mode:forwards;

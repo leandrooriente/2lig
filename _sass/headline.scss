@@ -11,7 +11,7 @@
 .headline-title {
   position: relative;
   box-sizing: border-box;
-  z-index: 3;
+  z-index: 2;
   font-size: 4.5rem;
   max-width: 67rem;
   width: 100%;
@@ -21,7 +21,7 @@
 .headline-button {
   @extend .button-inverse;
   position: relative;
-  z-index: 3;
+  z-index: 2;
   font-size: 1.6rem;
   text-transform: uppercase;
   margin: 0 auto 19rem;
@@ -29,7 +29,7 @@
 
 .headline-circle-background {
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   width: 90%;
   left: 5%;
   top: -30%;
