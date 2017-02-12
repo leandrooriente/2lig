@@ -14,12 +14,13 @@
 
 .panel-flex {
   display: flex;
+  flex-direction: row-reverse;
   align-items: center;
   justify-content: center;
 }
 
 .panel-erp .panel-flex {
-  flex-direction: row-reverse;
+  flex-direction: row;
 }
 
 .panel-half {
