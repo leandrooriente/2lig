@@ -7,4 +7,9 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "normalize";
 @import "variable";
+
 @import "style";
+@import "header";
+@import "headline";
+@import "panel";
+@import "testimonials";

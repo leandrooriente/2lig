@@ -1,0 +1,89 @@
+.testimonials {
+  .title {
+    text-align: center;
+  }
+
+  .list {
+    display: flex;
+    list-style: none;
+    margin: 6.5rem 0 0;
+    width: 100%;
+
+    li {
+      width: 33%;
+      padding-right: 6rem;
+      box-sizing: border-box;
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+      
+    .picture {
+      text-align: center;
+    }
+
+    img {
+      max-width: 25rem;
+      width: 100%;
+      display: inline-block;
+      margin: 0 auto 3rem;
+    }
+
+    .author {
+      color: $brand-color;
+
+      p {
+        margin: 0;
+      }
+
+      .name {
+        font-weight: bold;
+        font-size: 1.8rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: $mobile-width) {
+  .testimonials {
+    padding: 10rem 3rem;
+
+    .title {
+      text-align: left;
+    }
+
+    .author {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .picture {
+      width: 25%;
+    }
+
+    .details {
+      width: 75%;
+      padding-left: 2rem;
+      box-sizing: border-box;
+    }
+
+    .list {
+      display: block;
+      padding: 0;
+
+      img {
+        margin-bottom: 0;
+      }
+
+      li {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 4rem;
+        padding-bottom: 4rem;
+        border-bottom: 0.1rem solid lighten($brand-color, 57%);
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+.panel {
+  padding: 10rem 0;
+
+  &:nth-child(odd) {
+    background: lighten($brand-color, 57%);
+  }
+}
+
+.panel-wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.panel-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.panel-half {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.panel-image {
+  text-align: center;
+  padding: 4rem;
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.panel-description {
+  font-size: 2.4rem;
+  color: $text-color;
+}
+
+@media screen and (max-width: $mobile-width) {
+  .panel-flex {
+    display: block;
+  }
+
+  .panel-half {
+    width: 100%;
+    padding: 0 3rem;
+  }
+}
