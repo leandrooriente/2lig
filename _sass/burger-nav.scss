@@ -68,7 +68,7 @@ $hamburger-hover-filter    : opacity(100%) !default;
 // ==================================================
 .hamburger {
   padding: $hamburger-padding-y $hamburger-padding-x;
-  display: inline-block;
+  display: none;
   cursor: pointer;
   position: absolute;
   top: 7rem;
@@ -141,5 +141,11 @@ $hamburger-hover-filter    : opacity(100%) !default;
 
   &::after {
     bottom: ($hamburger-layer-spacing + $hamburger-layer-height) * -1;
+  }
+}
+
+@media screen and (max-width: $mobile-width) {
+  .hamburger {
+    display: inline-block;
   }
 }
