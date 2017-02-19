@@ -30,10 +30,6 @@
   li {
     list-style: none;
     display: inline-block;
-
-    &:last-child {
-      margin-left: 1.8rem;
-    }
   }
 
   a {
@@ -53,6 +49,10 @@
 @media screen and (max-width: $mobile-width) {
   .logo {
     margin: 3rem;
+  }
+
+  .header-wrapper {
+    justify-content: space-between;
   }
 
   .navigation {

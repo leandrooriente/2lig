@@ -1,4 +1,4 @@
-var trigger = document.getElementById('hamburger'),
+var trigger = document.getElementById('menu'),
     nav = document.getElementById('navigation'),
     isClosed = false;
 
@@ -7,13 +7,11 @@ nav.addEventListener('click', burgerTime, false);
 
 function burgerTime() {
   if (isClosed === true) {
-    trigger.classList.remove('is-open');
-    trigger.classList.add('is-closed');
+    trigger.classList.remove('is-active');
     nav.classList.remove('opened');
     isClosed = false;
   } else {
-    trigger.classList.remove('is-closed');
-    trigger.classList.add('is-open');
+    trigger.classList.add('is-active');
     nav.classList.add('opened');
     isClosed = true;
   }
