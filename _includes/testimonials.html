@@ -3,13 +3,7 @@
     <h2 class="title">Depoimentos</h2>
     <ul class="list">
       {% for testimonial in site.data.testimonials %}
-        <li
-          data-aos="fade-up"
-          data-aos-easing="ease-in-out-back"
-          data-aos-offset="0"
-          data-aos-duration="800"
-          data-aos-delay="{{ forloop.index | plus: 1 | times: 100 }}"
-        >
+        <li>
           <div class="picture hide-mobile show-desktop">
             <img src="{{ testimonial.picture }}">
           </div>

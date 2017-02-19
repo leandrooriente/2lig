@@ -16,5 +16,11 @@
     "bio": "Play Tools - CEO",
     "picture": "images/executive-1.jpg",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
+  },
+  {
+    "name": "Raquel Mordente",
+    "bio": "Clousure - CFO",
+    "picture": "images/executive-2.jpg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices."
   }
 ]
