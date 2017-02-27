@@ -2,11 +2,11 @@
 title: 2Lig
 timezone: America/Sao_Paulo
 collections:
-  posts:
-    title: Posts
-    output: true
   testimonials:
     title: Depoimentos
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
