@@ -11,7 +11,7 @@ function handleSubmit(e) {
 
   axios({
     method: 'post',
-    url: 'https://formspree.io/leandroriente@gmail.com',
+    url: 'https://formspree.io/' + BASE_EMAIL,
     data: {
       _subject: '2LIG - Novo contato de ' + name,
       Nome: name,
