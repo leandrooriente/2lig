@@ -1,6 +1,6 @@
 ---
 title: 2Lig
-timezone: UTC
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
@@ -51,7 +51,6 @@ compress_html:
     - local
   blanklines: false
   profile: false
-  startings: []
 sass:
   style: compressed
 exclude:
