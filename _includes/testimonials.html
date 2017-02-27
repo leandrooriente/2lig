@@ -2,12 +2,12 @@
   <div class="panel-wrapper">
     <h2 class="title">Depoimentos</h2>
     <ul class="list">
-      {% for testimonial in site.data.testimonials %}
+      {% for testimonial in site.testimonials %}
         <li>
           <div class="picture hide-mobile show-desktop">
             <img src="{{ testimonial.picture }}">
           </div>
-          <p>"{{ testimonial.text }}"</p>
+          <p>{{ testimonial.content }}</p>
           <div class="author">
             <div class="picture show-mobile hide-desktop">
               <img src="{{ testimonial.picture }}">
