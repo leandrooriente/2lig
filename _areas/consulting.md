@@ -1,11 +1,10 @@
 ---
-  title: "Consultoria"
-  image_side: "left"
-  text_side: "right"
-  image: "images/consulting.png"
-  order: "3"
-  slug: "consulting"
-  navigation: "Consultoria"
+title: Consultoria
+image_side: left
+text_side: right
+image: images/consulting.png
+order: '3'
+navigation: Consultoria
 ---
 
 Oferecemos exemplos de entidades e fluxos de diversos modelos de integrações para serem seguidos.

@@ -1,11 +1,10 @@
 ---
-  title: "Integração com ERP"
-  image_side: "right"
-  text_side: "left"
-  image: "images/erp.jpg"
-  order: "2"
-  slug: "erp"
-  navigation: "Integração com ERP"
+title: Integração com ERP
+image_side: right
+text_side: left
+image: images/erp.jpg
+order: '2'
+navigation: Integração com ERP
 ---
 
 A 2 Lig é especialista em ERPs, como Ábacus e Bseller. Também realizamos novas integrações com a plataforma VTEX.
