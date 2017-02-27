@@ -1,0 +1,24 @@
+<section class="panel panel-{{ include.slug }}" id="{{ include.slug }}">
+  <div class="panel-wrapper panel-flex">
+    <div
+      data-aos="fade-{{ include.text_side }}"
+      data-aos-easing="ease-in"
+      data-aos-duration="600"
+      class="panel-half"
+    >
+      <h2 class="title">{{ include.title }}</h2>
+      <div class="panel-description">
+        {{ include.content }}
+      </div>
+    </div>
+
+    <div
+      data-aos="fade-{{ include.image_side }}"
+      data-aos-easing="ease-in-quart"
+      data-aos-duration="600"
+      class="panel-half panel-image"
+    >
+      <img src="{{site.baseurl}}/{{ include.image }}">
+    </div>
+  </div>
+</section>

@@ -12,6 +12,7 @@
   width: 100%;
 }
 
+
 .panel-flex {
   display: flex;
   flex-direction: row-reverse;
@@ -19,8 +20,10 @@
   justify-content: center;
 }
 
-.panel-erp .panel-flex {
-  flex-direction: row;
+.panel:nth-child(odd) {
+  .panel-flex {
+    flex-direction: row;
+  }
 }
 
 .panel-half {

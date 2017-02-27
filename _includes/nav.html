@@ -1,15 +1,12 @@
 {% include burger-nav.html %}
 <nav class="navigation" id="navigation">
   <ul>
-    <li>
-      <a href="#erp">Integração com ERP</a>
-    </li>
-    <li>
-      <a href="#marketplace">Integração com Marketplace</a>
-    </li>
-    <li>
-      <a href="#consulting">Consultoria</a>
-    </li>
+    {% assign sorted_areas = (site.areas | sort: 'order') %}
+    {% for area in sorted_areas %}
+      <li>
+        <a href="#{{ area.slug }}">{{ area.navigation }}</a>
+      </li>
+    {% endfor %}
     <li>
       <a href="#company">Quem somos</a>
     </li>

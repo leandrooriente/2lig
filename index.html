@@ -3,9 +3,12 @@ layout: default
 ---
 
 {% include headline.html %}
-{% include marketplaces.html %}
-{% include erp.html %}
-{% include consulting.html %}
+
+{% assign sorted_areas = (site.areas | sort: 'order') %}
+{% for area in sorted_areas %}
+  {% include area.html title=area.title image_side=area.image_side text_side=area.text_side image=area.image slug=area.slug content=area.content %}
+{% endfor %}
+
 {% include testimonials.html %}
 {% include company.html %}
 {% include contact.html %}
