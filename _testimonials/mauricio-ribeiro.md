@@ -1,5 +1,5 @@
 ---
-title: Claudio Gomes
+title: Maurício Ribeiro
 name: Maurício Ribeiro de Oliveira
 bio: Integrações e Parcerias Marketplace ShopFácil
 picture: "/uploads/mauricio.jpg"
