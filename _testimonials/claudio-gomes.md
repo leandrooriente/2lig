@@ -1,8 +1,8 @@
 ---
 title: Claudio Gomes
-name: Claudio Gomes
-bio: Cama e Banho - CTO
-picture: images/executive-3.jpg
+name: Maurício Ribeiro de Oliveira
+bio: Integrações e Parcerias Marketplace ShopFácil
+picture: "/uploads/mauricio.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed ante id mauris porta gravida. Aliquam sagittis urna ac justo sagittis ultrices.
+"A 2Lig suporta muitas das nossas integrações de sellers não VTEX, participando, inclusive, da definição da arquitetura e escopo dos projetos de integração, propondo soluções que viabilizam a integração de outros sistemas com as APIs da VTEX."
