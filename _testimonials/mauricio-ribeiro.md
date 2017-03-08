@@ -2,7 +2,7 @@
 title: Maurício Ribeiro
 name: Maurício Ribeiro de Oliveira
 bio: Integrações e Parcerias Marketplace ShopFácil
-picture: "/uploads/mauricio.jpg"
+picture: "/uploads/mauricio-2eacdd.jpg"
 ---
 
 "A 2Lig suporta muitas das nossas integrações de sellers não VTEX, participando, inclusive, da definição da arquitetura e escopo dos projetos de integração, propondo soluções que viabilizam a integração de outros sistemas com as APIs da VTEX."
