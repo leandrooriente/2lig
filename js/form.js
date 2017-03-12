@@ -1,7 +1,6 @@
 var contact = document.getElementById('contact');
 
 function handleSubmit(e) {
-  console.log(e);
   var name = document.getElementById('contact-name').value;
   var email = document.getElementById('contact-email').value;
   var tel = document.getElementById('contact-tel').value;

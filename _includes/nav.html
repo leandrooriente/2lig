@@ -4,14 +4,14 @@
     {% assign sorted_areas = (site.areas | sort: 'order') %}
     {% for area in sorted_areas %}
       <li>
-        <a href="#{{ area.slug }}">{{ area.navigation }}</a>
+        <a class="anchor" href="#{{ area.slug }}">{{ area.navigation }}</a>
       </li>
     {% endfor %}
     <li>
-      <a href="#company">Quem somos</a>
+      <a class="anchor" href="#company">Quem somos</a>
     </li>
     <li>
-      <a href="#contact">Entre em contato</a>
+      <a class="anchor" href="#contact">Entre em contato</a>
     </li>
   </ul>
 </nav>

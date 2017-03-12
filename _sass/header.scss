@@ -8,6 +8,35 @@
   z-index: 3;
 }
 
+.stick {
+  position: fixed;
+  background: $brand-color;
+  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.3);
+  animation: 0.3s slideOut;
+
+  & .logo {
+    display: none;
+  }
+
+  & .navigation {
+    margin: 0 auto;
+  }
+
+  & .header-wrapper {
+    padding: 0;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateY(-5.6rem);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
 .header-wrapper {
   display: flex;
   align-self: flex-start;
