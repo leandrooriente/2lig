@@ -7,6 +7,12 @@ order: '1'
 navigation: Integração com Marketplace
 ---
 
-Disponibilize seus produtos em outros canais de venda e aproveite-se das grandes vitrines do mercado.
+Exponha seus produtos nas vitrines dos maiores canais de venda do mercado e veja suas vendas crescerem.
 
-Aumente suas vendas com o grande volume de visualizações nos e-commerces mais acessados do Brasil.
+Beneficie-se do grande volume de visualizações dos marketplaces mais acessados do Brasil.
+
+Aumente a variedade de produtos expostos em sua vitrine para não deixar seu cliente sem opções.
+
+A 2LIG atua hoje agregando valor ao modelo marketplace, oferecendo consultoria para os donos de vitrines receberem produtos e também para os donos de produtos ofertá-los em diversas vitrines. Sendo parceira de grandes vitrines.
+
+Conheça também o Commerce Switch, entre em contato.
