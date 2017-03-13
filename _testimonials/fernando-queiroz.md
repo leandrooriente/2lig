@@ -1,5 +1,6 @@
 ---
 title: Fernando Queiroz
+position: 0
 name: Fernando Queiroz
 bio: Play Tools - CEO
 picture: images/executive-1.jpg

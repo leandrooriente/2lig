@@ -1,5 +1,6 @@
 ---
 title: Margareth Braganca
+position: 1
 name: Margareth Bragança
 bio: Youtty - COO
 picture: images/executive-2.jpg
