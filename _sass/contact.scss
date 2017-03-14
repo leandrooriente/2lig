@@ -14,12 +14,34 @@
   height: 10rem;
 }
 
+.success-alert {
+  max-width: 50rem;
+  box-sizing: border-box;
+  line-height: 18px;
+  padding: .75rem 1.25rem;
+  border: 1px solid #d0e9c6;
+  border-radius: .25rem;
+  color: #3c763d;
+  background: #dff0d8;
+  display: none;
+  cursor: pointer;
+}
+
+.show {
+  display: block;
+}
+
 .submit-button {
   font-size: 1.7rem;
   background-color: $secondary-color;
   color: $white;
   border-radius: 0.5rem;
   border: 1px solid $secondary-color;
+
+  &:disabled {
+    cursor: default;
+    opacity: 0.7;
+  }
 }
 
 .detail {

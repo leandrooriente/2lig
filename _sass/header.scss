@@ -14,8 +14,8 @@
   border-bottom: 0.1rem solid rgba(255, 255, 255, 0.3);
   animation: 0.3s slideOut;
 
-  & .logo {
-    display: none;
+  & .logo img {
+    width: 4rem;
   }
 
   & .navigation {
