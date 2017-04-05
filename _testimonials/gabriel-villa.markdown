@@ -3,6 +3,7 @@ title: Gabriel Villa
 date: 2017-04-05 12:53:00 -03:00
 name: Gabriel Villa
 bio: VTEX
+picture: "/uploads/gabrielvilla.PNG"
 ---
 
 "Conheço o Jonas da época em que eu era da ShopFácil e ele era Vtex. Sempre foi um profissional voltado para resolver os problemas do cliente, de forma rápida e eficaz. 
