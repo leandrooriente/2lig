@@ -1,6 +1,6 @@
 ---
 title: Maurício Ribeiro
-position: 2
+position: 1
 name: Maurício Ribeiro de Oliveira
 bio: Integrações e Parcerias Marketplace ShopFácil
 picture: "/uploads/mauricio-48a85a.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Eduardo Freire
 date: 2017-04-17 18:12:00 -03:00
+position: 3
 name: Eduardo Freire
 bio: 'Arquiteto de Integrações - VTEX '
 picture: "/uploads/eduardo.PNG"
