@@ -1,6 +1,7 @@
 ---
 title: Gabriel Villa
 date: 2017-04-05 12:53:00 -03:00
+position: 0
 name: Gabriel Villa
 bio: VTEX
 picture: "/uploads/gabrielvilla.PNG"
