@@ -1,7 +1,7 @@
 ---
 title: Luiz Munhoz
 date: 2017-04-17 13:16:00 -03:00
-position: 2
+position: 3
 name: Luiz Felipe Munhoz
 bio: Diretor do Grupo Afeet
 picture: "/uploads/luiz_munhoz.PNG"
