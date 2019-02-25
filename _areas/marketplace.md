@@ -13,6 +13,6 @@ Beneficie-se do grande volume de visualizações dos marketplaces mais acessados
 
 Aumente a variedade de produtos expostos em sua vitrine para não deixar seu cliente sem opções.
 
-A 2LIG atua hoje agregando valor ao modelo marketplace, oferecendo consultoria para os donos de vitrines receberem produtos e também para os donos de produtos ofertá-los em diversas vitrines. Sendo parceira de grandes vitrines como VTEX Marketplace Switch, Marketplace Ricardo Eletro, Marketplace Saraiva.
+A 2LIG oferece produtos para os donos de vitrines receberem produtos e também para os donos de produtos ofertá-los em diversas vitrines. Parceira certificada de grandes vitrines como VTEX Marketplace, Marketplace Ricardo Eletro, Marketplace Saraiva.
 
 [Conheça Seller Central](http://sellercentral.com.br)
