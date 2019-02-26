@@ -6,4 +6,4 @@ name: MERCADO BACKOFFICE
 picture: "/uploads/selo_ebuilder_mbo-248x300.png"
 ---
 
-Como E-BUILDER certificado, a 2LIG integra hoje mais de 30 lojas como o MERCADO BACKOFFICE.
+Como E-BUILDER certificado, a 2LIG integra hoje mais de 50 lojas como o Ábacos MERCADO BACKOFFICE.
