@@ -16,4 +16,4 @@ Aumente a variedade de produtos expostos em sua vitrine conectando com grandes s
 
 A 2LIG oferece produtos para os donos de vitrines receberem produtos e também para os donos de produtos ofertá-los em diversas vitrines. Parceira certificada de grandes vitrines como VTEX Marketplace, Marketplace Ricardo Eletro, Marketplace Saraiva.
 
-[Conheça o Seller Central](http://sellercentral.click)
+[Conheça o Seller Central](http://sellercentral.click){:target="_blank"}

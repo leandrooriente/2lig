@@ -4,7 +4,7 @@ date: 2019-03-20 16:22:00 -03:00
 position: 3
 image_side: right
 text_side: left
-image: "/uploads/aquiles.png"
+image: "/images/aquiles.png"
 order: 4
 navigation: AQUILES - Gerador de vendas
 ---
