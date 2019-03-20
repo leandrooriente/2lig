@@ -14,4 +14,4 @@ O Aquiles identifica vendas perdidas e/ou clientes desistentes, possibilitando r
 Ele funciona como um robô sentinela aguardando por carrinhos cancelados, incompletos e abandonados. Nestas situações o Aquiles envia um e-mail para o cliente com uma sugestão para que ele continue no processo de compra.
 Não é mágica mas funciona como se fosse!
 
-[Experimente grátis](http://aquiles.click)
+[Experimente grátis](http://aquiles.click){:target="_blank"}
