@@ -5,7 +5,7 @@ image_side: left
 text_side: right
 image: images/marketplace1.png
 order: 1
-navigation: Integração com Marketplace
+navigation: Marketplace
 ---
 
 Exponha seus produtos nas vitrines dos maiores canais de venda do mercado e veja suas vendas crescerem.
