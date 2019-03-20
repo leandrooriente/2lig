@@ -1,5 +1,6 @@
 ---
 title: Integração com Seller e Marketplace
+position: 0
 image_side: left
 text_side: right
 image: images/marketplace1.png

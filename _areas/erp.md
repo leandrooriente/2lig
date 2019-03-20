@@ -1,5 +1,6 @@
 ---
 title: Integração com ERP
+position: 1
 image_side: right
 text_side: left
 image: images/erp.jpg

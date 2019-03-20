@@ -1,5 +1,6 @@
 ---
 title: Consultoria
+position: 2
 image_side: left
 text_side: right
 image: images/consulting.png
