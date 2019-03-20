@@ -6,7 +6,7 @@ image_side: right
 text_side: left
 image: images/aquiles.png
 order: 4
-navigation: AQUILES
+navigation: Aquiles
 ---
 
 O Aquiles identifica vendas perdidas e/ou clientes desistentes, possibilitando recuperar clientes e gerar novos pedidos.
