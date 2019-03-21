@@ -9,7 +9,7 @@ collections:
     title: Posts
     output: true
   staff:
-    title: Staff
+    title: Quem Somos
     output: true
   uploads:
     title: Uploads
