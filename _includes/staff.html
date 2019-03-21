@@ -1,0 +1,24 @@
+<section class="panel testimonials" id="testimonials">
+  <div class="panel-wrapper">
+    <h2 class="title">Depoimentos</h2>
+    <ul class="list">
+      {% for staff in site.staff %}
+        <li>
+          <div class="picture hide-mobile show-desktop">
+            <img src="{{ staff.picture }}">
+          </div>
+          <p>{{ staff.content }}</p>
+          <div class="author">
+            <div class="picture show-mobile hide-desktop">
+              <img src="{{ staff.picture }}">
+            </div>
+            <div class="details">
+              <p class="name">{{ staff.name }}</p>
+              <p class="bio">{{ staff.bio }}</p>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
