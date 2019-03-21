@@ -1,6 +1,7 @@
 ---
 title: Jonas Bolognim
 date: 2019-03-21 14:55:00 -03:00
+position: 0
 name: Jonas Bolognim
 bio: Sócio - Diretor
 picture: "/uploads/jonas.PNG"

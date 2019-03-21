@@ -1,6 +1,7 @@
 ---
 title: Carlos Coelho
 date: 2019-03-21 15:37:00 -03:00
+position: 2
 name: Carlos Coelho
 bio: Analista de integrações e-commerce
 picture: "/uploads/carlos.png"

@@ -1,6 +1,7 @@
 ---
 title: Leonardo Coutinho
 date: 2019-03-21 15:31:00 -03:00
+position: 1
 name: Leonardo de Jesus Coutinho
 bio: Analista de e-commerce e ERPs
 picture: "/uploads/leo.png"

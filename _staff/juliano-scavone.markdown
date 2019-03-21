@@ -1,6 +1,7 @@
 ---
 title: Juliano Scavone
 date: 2019-03-21 15:39:00 -03:00
+position: 4
 name: Juliano Scavone
 bio: Analista de integração e-commerce e ERP
 picture: "/uploads/juju.png"
