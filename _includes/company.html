@@ -21,7 +21,8 @@
         </p>
 
         <p>
-          Transacionamos mais de 300 mil pedidos mensais entre vitrine e backoffice com total rastreabilidade. Somos parceiros de Marketplace VTEX, Ricardo Eletro, Marketplace Saraiva, Mercado Livre, B2W e outros.
+          Transacionamos mais de 350 mil pedidos mensais entre vitrine e backoffice com total rastreabilidade. 
+          Somos parceiros de Marketplace VTEX, Ricardo Eletro, Marketplace Saraiva, Mercado Livre, B2W, Magazine Luiza, Via Varejo e outros.
         </p>
 
         <p>
@@ -38,5 +39,29 @@
     >
       <img src="{{site.baseurl}}/images/tech.png">
     </div>
+  </div>
+</section>
+
+<section class="panel testimonials" id="testimonials">
+  <div class="panel-wrapper">
+    <ul class="list">
+      {% for staff in site.staff %}
+        <li>
+          <div class="picture hide-mobile show-desktop">
+            <img src="{{ staff.picture }}">
+          </div>
+          <p>{{ staff.content }}</p>
+          <div class="author">
+            <div class="picture show-mobile hide-desktop">
+              <img src="{{ staff.picture }}">
+            </div>
+            <div class="details">
+              <p class="name">{{ staff.name }}</p>
+              <p class="bio">{{ staff.bio }}</p>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 </section>
