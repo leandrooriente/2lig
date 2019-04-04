@@ -5,4 +5,4 @@ name: Certificado B2W Expert PARTNET
 picture: "/uploads/CertificadoB2W_Final.png"
 ---
 
-Hoje a 2Lig é uma integradora certificada pela B2W
+A 2Lig é uma integradora certificada pela B2W
