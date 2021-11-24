@@ -1,5 +1,5 @@
 ---
-title: Integração de Seller e Marketplace
+title: Seller Central - Simples e fácil
 position: 0
 image_side: left
 text_side: right
@@ -12,7 +12,20 @@ Através da nossa ferramenta, o Seller Central, as fábricas podem oferecer e ve
 
 Aumente a variedade de produtos expostos em sua vitrine conectando com grandes sellers como Magazine Luiza e Via Varejo para não deixar seu cliente sem opções.
 
-Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como VTEX Marketplace, Mercado Livre, B2W, Girafa, Shopfacil, Marketplace Ricardo Eletro, Marketplace Saraiva, Decorium.
+Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como:
+
+* VTEX Marketplace
+* HyperaPharma
+* ePharma
+* Mercado Livre 
+* B2W
+* Sky Hub
+* Girafa
+* Shopfacil
+* NetSuprimentos
+* Marketplace Ricardo Eletro
+* Marketplace Saraiva 
+* Decorium.
 
 Através de um único painel de gerenciamento, você pode acompanhar e controlar todos os seus produtos em todas as vitrines onde está exposto. Receba notificações sobre pedidos novos e atualize os status de seus pedidos na vitrine. Veja relatórios de vendas de produtos. Acompanhe seu faturamento.
 
