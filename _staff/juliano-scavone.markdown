@@ -7,4 +7,4 @@ bio: Analista de integração e-commerce e ERP
 picture: "/uploads/juju.png"
 ---
 
-Formado em Ciência da Computação, Pós-graduado em Engenharia de Software pelo Instituto Infnet com MBA em Gestão Empresarial na FGV, Juliano possui oito anos de experiência na área de Tecnologia de Informação, tendo trabalhado em diversas empresas e projetos nesse segmento.
+Formado em Ciência da Computação, Pós-graduado em Engenharia de Software pelo Instituto Infnet com MBA em Gestão Empresarial na FGV, Juliano possui 10 anos de experiência na área de Tecnologia de Informação, tendo trabalhado em diversas empresas e projetos nesse segmento.
