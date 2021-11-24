@@ -16,6 +16,6 @@ Ajudamos a projetar integrações próprias para atender todas e quaisquer regra
 
 Solucionamos problemas inesperados de integrações. Além de, realizarmos consultorias para recebimento de pagamentos customizados através do gateway de pagamento PCI VTEX.
 
-Atendemos clientes como Shopfacil Marketplace, FAST Shop Marketplace, dentre outros.
+Atendemos clientes como Shopfacil Bradesco, FAST Shop Marketplace, Arezzo, Fcamera, OmniK, Epcom, dentre outros.
 
 Somos muito mais que consultores, ensinamos o que fazemos.
