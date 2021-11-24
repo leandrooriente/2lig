@@ -5,7 +5,7 @@ image_side: right
 text_side: left
 image: images/erp.jpg
 order: 2
-navigation: Integração com ERP
+navigation: Integração ERP
 ---
 
 A 2LIG é especialista em realizar a integração entre plataformas de e-commerce e sistemas ERP. Realiza a integração ponto a ponto diretamente sem estacionar os dados, reduzindo assim os riscos e ganhando agilidade na latência da informação.

@@ -1,5 +1,5 @@
 ---
-title: AQUILES - Recuperador de Vendas VTEX
+title: Aquiles - Recuperador de Vendas VTEX
 date: 2019-03-20 16:22:00 -03:00
 position: 3
 image_side: right
