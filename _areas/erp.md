@@ -52,9 +52,9 @@ Atua com a maioria da plataformas de e-commerce e ERPs:
 
 * [OnClick](http://onclick.com.br){:target="_blank"}
 
-* [Bling] (http://www.bling.com.br){:target="_blank"}
+* [Bling](http://www.bling.com.br){:target="_blank"}
 
-* [Omni Linx] (http://www.linx.com.br){:target="_blank"}
+* [Omni Linx](http://www.linx.com.br){:target="_blank"}
 
 * Farma
 
