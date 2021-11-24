@@ -15,17 +15,18 @@ Aumente a variedade de produtos expostos em sua vitrine conectando com grandes s
 Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como:
 
 * [VTEX Marketplace](http://vtex.com/br-pt/marketplace){:target="_blank"}
-* HyperaPharma
-* ePharma
+* [HyperaPharma](http://www.hyperapharma.com.br){:target="_blank"}
+* [ePharma](http://epharma.com.br){:target="_blank"}
 * [Mercado Livre](http://mercadolivre.com.br){:target="_blank"}
-* B2W
-* Sky Hub
-* Girafa
-* Shopfacil
-* NetSuprimentos
-* Marketplace Ricardo Eletro
-* Marketplace Saraiva 
-* Decorium.
+* [B2W](http://venda.americanasmarketplace.com.br){:target="_blank"}
+* [Sky Hub](http://skyhub.com.br){:target="_blank"}
+* [Girafa](http://www.girafa.com.br){:target="_blank"}
+* [Shopfacil](http://www.shopfacil.com.br){:target="_blank"}
+* [NetSuprimentos](http://www.netsuprimentos.com.br){:target="_blank"}
+* [Marketplace Ricardo Eletro](http://www.ricardoeletro.com.br){:target="_blank"}
+* [Marketplace Saraiva](http://www.saraiva.com.br){:target="_blank"} 
+* [Decorium](){:target="_blank"}
+* [CaféStore](http://www.cafestore.com.br){:target="_blank"}
 
 Através de um único painel de gerenciamento, você pode acompanhar e controlar todos os seus produtos em todas as vitrines onde está exposto. Receba notificações sobre pedidos novos e atualize os status de seus pedidos na vitrine. Veja relatórios de vendas de produtos. Acompanhe seu faturamento.
 
