@@ -1,8 +1,8 @@
 ---
 title: Consultoria
 position: 2
-image_side: left
-text_side: right
+image_side: right
+text_side: left
 image: images/consulting.png
 order: 3
 navigation: Consultoria

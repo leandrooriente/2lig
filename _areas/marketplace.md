@@ -1,6 +1,6 @@
 ---
 title: Seller Central - Simples e fácil
-position: 0
+position: 1
 image_side: left
 text_side: right
 image: images/seller-central-integracao-marketplace-vtex.png
