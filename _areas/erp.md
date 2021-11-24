@@ -16,7 +16,7 @@ A 2LIG é especialista em realizar a integração entre plataformas de e-commerc
 
 * Centros de Distribuição
 
-* Fabricas
+* Fábricas
 
 * WMS - Logística
 
