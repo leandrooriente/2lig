@@ -5,7 +5,7 @@ image_side: left
 text_side: right
 image: images/marketplace1.png
 order: 1
-navigation: Marketplace
+navigation: Seller Central
 ---
 
 Através da nossa ferramenta, o Seller Central, as fábricas podem oferecer e vender seus produtos em sua própria vitrine e também em vitrines de marketplaces.
@@ -14,10 +14,10 @@ Aumente a variedade de produtos expostos em sua vitrine conectando com grandes s
 
 Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como:
 
-* VTEX Marketplace
+* [VTEX Marketplace](http://vtex.com/br-pt/marketplace){:target="_blank"}
 * HyperaPharma
 * ePharma
-* Mercado Livre 
+* [Mercado Livre](http://mercadolivre.com.br){:target="_blank"}
 * B2W
 * Sky Hub
 * Girafa
