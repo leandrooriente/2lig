@@ -1,5 +1,5 @@
 ---
-title: Integração com Seller e Marketplace
+title: Integração de Seller e Marketplace
 position: 0
 image_side: left
 text_side: right
