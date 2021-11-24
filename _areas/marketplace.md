@@ -12,7 +12,7 @@ Através da nossa ferramenta, o Seller Central, as fábricas podem oferecer e ve
 
 Aumente a variedade de produtos expostos em sua vitrine conectando com grandes sellers como Magazine Luiza e Via Varejo para não deixar seu cliente sem opções.
 
-Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como:
+Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceria certificada:
 
 * [VTEX Marketplace](http://vtex.com/br-pt/marketplace){:target="_blank"}
 * [HyperaPharma](http://www.hyperapharma.com.br){:target="_blank"}
