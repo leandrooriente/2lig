@@ -39,6 +39,6 @@ Atua com a maioria da plataformas de e-commerce e ERPs:
 
 Com base na experiência de nossa equipe e mediante uma análise apurada da necessidade de nossos clientes, realizamos também novas integrações com as diversas tecnologias de e-commerce disponíveis no mercado.
 
-A 2LIG faz e mantem integrações com ERP 100% customizadas atendendo clientes como GB, Tramontina Global, VTEX, BSeller, Synapcom, Abacos, OnClick, Adidas, Rebook, Tatix, Omni Linx, dentre outros.
+A 2LIG faz e mantem integrações com ERP 100% customizadas atendendo clientes como GB, Tramontina Global, VTEX Global, ERP BSeller, Synapcom, Abacos, OnClick, Adidas - Rebook (Brasil, México e Argentina), Tatix, Omni LINX, dentre outros.
 
 Visando oferecer a melhor experiência para nossos clientes, disponibilizamos nossas integrações no modelo Software as a Service (SaaS).
