@@ -8,12 +8,12 @@ order: 1
 navigation: Marketplace
 ---
 
-Exponha seus produtos nas vitrines dos maiores canais de venda do mercado e veja suas vendas crescerem.
-
-Beneficie-se do grande volume de visualizações dos marketplaces mais acessados do Brasil.
+Através da nossa ferramenta, o Seller Central, as fábricas podem oferecer e vender seus produtos em sua própria vitrine e também em vitrines de marketplaces.
 
 Aumente a variedade de produtos expostos em sua vitrine conectando com grandes sellers como Magazine Luiza e Via Varejo para não deixar seu cliente sem opções.
 
-A 2LIG oferece produtos para os donos de vitrines receberem produtos e também para os donos de produtos ofertá-los em diversas vitrines. Parceira certificada de grandes vitrines como VTEX Marketplace, Marketplace Ricardo Eletro, Marketplace Saraiva.
+Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceira certificada de grandes vitrines como VTEX Marketplace, Mercado Livre, B2W, Girafa, Shopfacil, Marketplace Ricardo Eletro, Marketplace Saraiva, Decorium.
+
+Através de um único painel de gerenciamento, você pode acompanhar e controlar todos os seus produtos em todas as vitrines onde está exposto. Receba notificações sobre pedidos novos e atualize os status de seus pedidos na vitrine. Veja relatórios de vendas de produtos. Acompanhe seu faturamento.
 
 [Conheça o Seller Central](http://sellercentral.click){:target="_blank"}
