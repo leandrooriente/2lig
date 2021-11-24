@@ -14,6 +14,7 @@ position: 4
 image_side: left
 text_side: rigth
 navigation: GiftCard Hub VTEX
+order: 6
 ---
 
 A 2LIG implementa o Gift Card Hub Protocol, permitindo assim a troca de cartão presente e pontos de fidelidade diretamente no carrinho/checkout.
