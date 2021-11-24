@@ -39,6 +39,6 @@ Atua com a maioria da plataformas de e-commerce e ERPs:
 
 Com base na experiência de nossa equipe e mediante uma análise apurada da necessidade de nossos clientes, realizamos também novas integrações com as diversas tecnologias de e-commerce disponíveis no mercado.
 
-A 2LIG faz e mantem integrações com ERP 100% customizadas atendendo clientes como [GB](http://boticario.com.br){:target="_blank"}, [Tramontina Global](http://tramontina.com){:target="_blank"}, [VTEX](http://vtex.com){:target="_blank"} Global, [ERP BSeller](http://bseller.com.br){:target="_blank"}, [Synapcom](http://www.synapcom.com.br){:target="_blank"}, [Abacos, OnClick](http://onclick.com.br){:target="_blank"}, Adidas - Rebook (Brasil, México e Argentina), [Tatix](http://www.tatix.com.br){:target="_blank"}, [Omni LINX](http://www.linx.com.br){:target="_blank"}, dentre outros.
+A 2LIG faz e mantem integrações com ERP 100% customizadas atendendo clientes como [GB](http://boticario.com.br){:target="_blank"}, [Tramontina Global](http://tramontina.com){:target="_blank"}, [VTEX](http://vtex.com){:target="_blank"} Global, [ERP BSeller](http://bseller.com.br){:target="_blank"}, [Synapcom](http://www.synapcom.com.br){:target="_blank"}, [Abacos OnClick](http://onclick.com.br){:target="_blank"}, Adidas - Rebook (Brasil, México e Argentina), [Tatix](http://www.tatix.com.br){:target="_blank"}, [Omni LINX](http://www.linx.com.br){:target="_blank"}, dentre outros.
 
 Visando oferecer a melhor experiência para nossos clientes, disponibilizamos nossas integrações no modelo Software as a Service (SaaS).
