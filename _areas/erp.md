@@ -26,12 +26,12 @@ A 2LIG é especialista em realizar a integração entre plataformas de e-commerc
 Atua com a maioria da plataformas de e-commerce e ERPs:
 * [VTEX](http://vtex.com){:target="_blank"}
 * [Traycorp](http://www.traycorp.com.br){:target="_blank"}
-* Fbits
-* Ciashop
-* Magento 1x
-* Magento 2x
-* Bseller
-* Abacos
+* [Fbits](http://www.traycorp.com.br){:target="_blank"}
+* [Magento 1x Adobe Commerce](https://magento.com){:target="_blank"}
+* [Magento 2x Adobe Commerce](https://magento.com){:target="_blank"}
+* [Bseller](https://bseller.com.br){:target="_blank"}
+* [Abacos](https://onclick.com.br){:target="_blank"}
+* [OnClick](https://onclick.com.br){:target="_blank"}
 * Bling
 * Omni Linx
 * Farma
