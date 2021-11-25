@@ -15,6 +15,7 @@ A 2LIG é especialista em realizar a integração entre plataformas de e-commerc
 * Centros de Distribuição
 * Fábricas
 * WMS - Logística
+* TMS - Transportadoras
 * Tabelas de Preço
 * Reservas
 * Pedidos
@@ -25,6 +26,7 @@ A 2LIG é especialista em realizar a integração entre plataformas de e-commerc
 
 Atua com a maioria da plataformas de e-commerce e ERPs:
 
+* [Driven](http://www.driven.cx){:target="_blank"}
 * [VTEX](http://vtex.com){:target="_blank"}
 * [Traycorp](http://www.traycorp.com.br){:target="_blank"}
 * [Fbits](http://www.traycorp.com.br){:target="_blank"}
