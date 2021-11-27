@@ -6,6 +6,10 @@ categories:
 - vendas
 tags:
 - recuperador de vendas VTEX
+Field name:
+  image: https://aquiles.click/wp-content/uploads/2021/11/novos-clientes-1200x480.jpg
+  image_side: left
+  text_side: right
 layout: post
 ---
 
