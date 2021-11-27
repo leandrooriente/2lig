@@ -1,8 +1,8 @@
 ---
 title: Integração com ERP
 position: 0
-image_side: right
-text_side: left
+image_side: top
+text_side: bottom
 image: images/erp.jpg
 order: 2
 navigation: Integre ERP
