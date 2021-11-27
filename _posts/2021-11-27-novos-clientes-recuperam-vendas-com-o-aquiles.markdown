@@ -1,6 +1,7 @@
 ---
 title: Novos clientes recuperam vendas com o Aquiles
 date: 2021-11-27 11:17:00 -02:00
+permalink: posts/
 categories:
 - vendas
 tags:
