@@ -1,12 +1,11 @@
 ---
 title: Novos clientes recuperam vendas com o Aquiles
 date: 2021-11-27 11:17:00 -02:00
-permalink: posts/
 categories:
 - vendas
 tags:
 - recuperador de vendas VTEX
-layout: default
+layout: post
 ---
 
 Vamos começar este texto com uma pergunta fácil: o que é uma das piores coisas para quem trabalha com e-commerce? Embora você possa pensar em algumas possibilidades, certamente a resposta de “não vender” passou pela sua cabeça, certo? E faz sentido que seja assim, já que, para quem tem uma empresa, a comercialização de seus produtos e serviços é fundamental para que aquele negócio continue funcionando e que mantenha uma balança comercial positiva. 
