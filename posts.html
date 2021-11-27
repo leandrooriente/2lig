@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: post
 ---
 
 {% assign sorted_posts = (site.posts | sort: 'order') %}
 {% for area in sorted_posts %}
-  {% include area.html title=area.title image_side=area.image_side text_side=area.text_side image=area.image slug=area.slug content=area.content %}
+  {% include area.html title=area.title image_side=area.image_side text_side=area.text_side image.src=area.image slug=area.slug content=area.content %}
 {% endfor %}
 
 {% include contact.html %}
