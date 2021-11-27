@@ -1,7 +1,6 @@
 ---
 title: Novos clientes recuperam vendas com o Aquiles
 date: 2021-11-27 11:17:00 -02:00
-permalink: "/articles"
 categories:
 - vendas
 tags:
@@ -10,7 +9,7 @@ Field name:
   image: https://aquiles.click/wp-content/uploads/2021/11/novos-clientes-1200x480.jpg
   image_side: left
   text_side: right
-layout: post
+layout: default
 ---
 
 Vamos começar este texto com uma pergunta fácil: o que é uma das piores coisas para quem trabalha com e-commerce? Embora você possa pensar em algumas possibilidades, certamente a resposta de “não vender” passou pela sua cabeça, certo? E faz sentido que seja assim, já que, para quem tem uma empresa, a comercialização de seus produtos e serviços é fundamental para que aquele negócio continue funcionando e que mantenha uma balança comercial positiva. 
