@@ -6,7 +6,7 @@ collections:
   testimonials:
     title: Depoimentos
     output: true
-  articles:
+  posts:
     title: Posts
     output: true
   staff:
