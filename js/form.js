@@ -8,6 +8,15 @@ function handleSubmit(e) {
   var button = document.getElementById('submit-button');
   var alert = document.getElementById('alert');
 
+  var grecaptcha = document.getElementsByClassName('g-recaptcha');
+  if(grecaptcha){
+      var required = grecaptcha.getResponse();
+      if(required === ''){
+          alert('Recapcha is required');
+          return false;
+      }
+  }
+
   alert.addEventListener('click', function() {
     alert.classList.remove('show');
   })
