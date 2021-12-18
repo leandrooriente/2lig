@@ -17,7 +17,7 @@ function handleSubmit(e) {
 
   axios({
     method: 'post',
-    url: 'https://formspree.io/' + BASE_EMAIL,
+    url: 'https://formspree.io/f/myyoyody',
     data: {
       _subject: '2LIG - Novo contato de ' + name.value,
       Nome: name.value,
