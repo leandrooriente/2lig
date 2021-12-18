@@ -9,8 +9,9 @@ function handleSubmit(e) {
   var alert = document.getElementById('alert');
  
     var $recaptcha = document.querySelector('#g-recaptcha-response');
-    if($recaptcha.value === false) {
-        
+    if($recaptcha.value === '') {
+        alert.value = 'Recapcha is required';
+        return false;
     }
 
   alert.addEventListener('click', function() {
