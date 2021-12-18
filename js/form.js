@@ -1,5 +1,12 @@
 var contact = document.getElementById('contact');
 
+window.onload = function() {
+    var $recaptcha = document.querySelector('#g-recaptcha-response');
+    if($recaptcha) {
+        $recaptcha.setAttribute("required", "required");
+    }
+};
+
 function handleSubmit(e) {
   var name = document.getElementById('contact-name');
   var email = document.getElementById('contact-email');
@@ -7,12 +14,6 @@ function handleSubmit(e) {
   var message = document.getElementById('contact-message');
   var button = document.getElementById('submit-button');
   var alert = document.getElementById('alert');
-
-  var $recaptcha = document.querySelector('#g-recaptcha-response');
-  
-  if($recaptcha){
-    $recaptcha.setAttribute("required", "required");
-  }
 
   alert.addEventListener('click', function() {
     alert.classList.remove('show');
