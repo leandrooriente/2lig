@@ -10,7 +10,7 @@ function handleSubmit(e) {
  
     var $recaptcha = document.querySelector('#g-recaptcha-response');
     if($recaptcha.value === '') {
-        alert.value = 'Recapcha is required';
+        alert('Recapcha is required');
     }else{
         alert.addEventListener('click', function() {
             alert.classList.remove('show');
