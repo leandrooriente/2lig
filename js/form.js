@@ -10,7 +10,7 @@ function handleSubmit(e) {
  
     var $recaptcha = document.querySelector('#g-recaptcha-response');
     if($recaptcha.value === '') {
-        alert.value = 'Recapcha is required!'
+        alert.innerHTML = 'Recapcha is required!'
         alert.classList.add('show');
     }else{
         alert.addEventListener('click', function() {
@@ -32,6 +32,7 @@ function handleSubmit(e) {
             }
           })
           .then(function(response) {
+            alert.innerHTML = 'Sua mensagem foi enviada com sucesso! <br /> Em breve entraremos em contato';
             alert.classList.add('show');
             button.disabled = false;
             name.value = '';
