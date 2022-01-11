@@ -14,6 +14,7 @@ Aumente a variedade de produtos expostos em sua vitrine conectando com grandes s
 
 Através do Seller Central os donos de vitrines recebem produtos que os donos de produtos oferecem. Parceria certificada:
 
+* [Leroy Merlin](https://www.leroymerlin.com.br/){:target="_blank"}
 * [VTEX Marketplace](http://vtex.com/br-pt/marketplace){:target="_blank"}
 * [HyperaPharma](http://www.hyperapharma.com.br){:target="_blank"}
 * [ePharma](http://epharma.com.br){:target="_blank"}
