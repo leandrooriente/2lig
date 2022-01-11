@@ -27,6 +27,8 @@ A 2LIG é especialista em realizar a integração entre plataformas de e-commerc
 Atua com a maioria da plataformas de e-commerce e ERPs:
 
 * [VTEX](http://vtex.com){:target="_blank"}
+* [Shopify](http://https://www.shopify.com.br/){:target="_blank"}
+* [Shopifyplus](http://https://www.shopify.com.br/){:target="_blank"}
 * [Traycorp](http://www.traycorp.com.br){:target="_blank"}
 * [Fbits](http://www.traycorp.com.br){:target="_blank"}
 * [Magento 1x Adobe Commerce](http://magento.com){:target="_blank"}
